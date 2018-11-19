@@ -1,0 +1,24 @@
+_repo: Seleccion_58194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molina, Tirso de
+    gutenberg_agent_id: '49817'
+    url: http://www.gutenberg.org/2009/agents/49817
+  editor:
+    agent_name: Gaya, Samuel Gili
+    gutenberg_agent_id: '49818'
+    url: http://www.gutenberg.org/2009/agents/49818
+description: ''
+gutenberg_issued: '2018-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58194'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Selección
+url: http://www.gutenberg.org/ebooks/58194
